@@ -1,0 +1,5 @@
+#sample_type	sample_name	pair_id	wes_r1	wes_r2	rna_reps
+parent	PARENT_1	SAMPLE_1	PARENT_1_R1_fastq.gz	PARENT_1_R2_fastq.gz	PARENT_1_rep01.fastq.gz,PARENT_1_rep02.fastq.gz,PARENT_1_rep03.fastq.gz
+resist	RESIST_1	SAMPLE_1	RESIST_1_R1_fastq.gz	RESIST_1_R2_fastq.gz	RESIST_1_rep01.fastq.gz,RESIST_1_rep02.fastq.gz,RESIST_1_rep03.fastq.gz
+parent	PARENT_2	SAMPLE_2	PARENT_2_R1_fastq.gz	PARENT_2_R2_fastq.gz	PARENT_2_rep01.fastq.gz,PARENT_2_rep02.fastq.gz,PARENT_2_rep03.fastq.gz
+resist	RESIST_2	SAMPLE_2	RESIST_2_R1_fastq.gz	RESIST_2_R2_fastq.gz	RESIST_2_rep01.fastq.gz,RESIST_2_rep02.fastq.gz,RESIST_2_rep03.fastq.gz
